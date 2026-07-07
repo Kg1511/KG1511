@@ -2,7 +2,7 @@
 
 I'm **Kartik Gupta**, a Computer Software Engineering undergraduate at **Delhi Technological University (DTU)**.
 
-I like building projects around **software engineering, computer vision, machine learning, and full-stack development**. Most of my work focuses on turning ideas into usable systems — from ML pipelines and forecasting models to web apps and computer vision projects.
+I like building projects around **software engineering, computer vision, machine learning, and full-stack development**. Most of my work focuses on turning ideas into usable systems from ML pipelines and forecasting models to web apps and computer vision projects.
 
 Currently, I am strengthening my fundamentals in **C++, Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, backend development, and applied ML**.
 
