@@ -22,7 +22,6 @@ Currently, I am strengthening my fundamentals in **C++, Data Structures & Algori
 
 - **Landsat-9 Infrared Super-Resolution & Colorization**  
   Deep learning pipeline for enhancing thermal satellite imagery and generating RGB-like visualizations.
-  (Currently Repository private due to ongoing hackathon)
 
 - **Face Recognition**  
   Face recognition experiments using MTCNN, RetinaFace, VGGFace, FaceNet, and a custom CNN.
